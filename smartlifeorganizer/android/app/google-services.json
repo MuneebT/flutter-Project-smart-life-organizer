@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1006723116792",
+    "project_id": "flutterfirestarter",
+    "storage_bucket": "flutterfirestarter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006723116792:android:4202c759dd5ceea6fe950d",
+        "android_client_info": {
+          "package_name": "com.example.learningflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006723116792-j4scrs898cv089a5207aceogtmskt150.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGhqIEWnW5zyt1I3TY_2revjlc1JYNr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006723116792-j4scrs898cv089a5207aceogtmskt150.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006723116792-94cuojk3uah8torsti19sj89c0fhjs3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006723116792:android:d96ce04904f7b64ffe950d",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006723116792-j4scrs898cv089a5207aceogtmskt150.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGhqIEWnW5zyt1I3TY_2revjlc1JYNr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006723116792-j4scrs898cv089a5207aceogtmskt150.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006723116792-94cuojk3uah8torsti19sj89c0fhjs3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006723116792:android:3b0b286b41f367c5fe950d",
+        "android_client_info": {
+          "package_name": "com.example.smartlifeorganizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006723116792-j4scrs898cv089a5207aceogtmskt150.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGhqIEWnW5zyt1I3TY_2revjlc1JYNr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006723116792-j4scrs898cv089a5207aceogtmskt150.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006723116792-94cuojk3uah8torsti19sj89c0fhjs3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
